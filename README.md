@@ -35,3 +35,5 @@ To run this project locally, follow these steps
    cd frontend
    npm run dev
    ```
+<img width="1512" alt="Screenshot 2025-01-27 at 5 57 14 PM" src="https://github.com/user-attachments/assets/006756a0-af23-4178-b3a9-679225a8b3b4" />
+<img width="1512" alt="Screenshot 2025-01-27 at 5 57 12 PM" src="https://github.com/user-attachments/assets/940c6824-637f-462f-afde-f3c8ba022183" />
