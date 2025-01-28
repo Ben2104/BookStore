@@ -10,7 +10,7 @@ The Bookstore project uses the MERN Stack (MongoDB, Express.js, React.js, and No
 To run this project locally, follow these steps
 1. Clone the repository
    ```
-   git clone [repository URL]
+   git clone git@github.com:Ben2104/BookStore.git
    ```
 2. Install dependencies using npm for the backend directory
    ```
